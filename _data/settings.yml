@@ -2,13 +2,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Laura Molina 
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: ls.molina@hotmail.com
+phone: 514-924-9862
+address: Vaudreuil-Dorion, QC.
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Laura Molina <br> 3rd year Comp Sci Student 
+  hero-title:  <br> Laura Molina <br> Comp Sci Student
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: "Hello! My name is Laura Molina and I am 3rd year Computer Science student at John Abbott college. I know many current technologies such as C#, Python, and SQL. I am someone who is always in a good mood and I bring a positive attitude to every environment I am in."
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -70,28 +70,28 @@ work-process:
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+# team:
+#   - title: "Jack Schenziwe"
+#     image: "assets/images/team/member-1.png"
+#     designation: "Project Manager"
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
+#   - title: "Julias Carlie"
+#     image: "assets/images/team/member-2.png"
+#     designation: "Web Developer"
 
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
+#   - title: "John Doe"
+#     image: "assets/images/team/member-3.png"
+#     designation: "Designer"
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Web Programming, color: "#fdb157", value: "90%" }
+  - { name: Databases, color: "#9473e6", value: "80%" }
+  - { name: App Developement, color: "#bdecf6", value: "75%" }
+  - { name: Networking and Security, color: "#ffbcaa", value: "50%" }
 
 #-------------------------------
 # Exprerience Section
@@ -99,22 +99,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Cashier,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Summer 2020 & Summer 2021",
+      organization: "Le Zebre Rouge",
     }
   - {
-      name: UX & UI Designer,
+      name: Hostess & Server,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "May 2022 - May 2023",
+      organization: "Boston Pizza Vaudreuil",
     }
   - {
-      name: Senior UI Designer,
+      name: Food Service Worker,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Jan 2024 - Sep 2024",
+      organization: "Marche Italanni",
     }
 
 #-------------------------------
@@ -123,47 +123,47 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Music Program - D.E.S,
+      date: "2022",
+      organization: "Ecole secondaire de la Cite des Jeunes",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: D.E.C,
+      date: "Expected 2025",
+      organization: "John Abbott College",
     }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
+  # - {
+  #     name: Higher Secondary Certificat,
+  #     date: "2000",
+  #     organization: "Cardiff School",
+  #   }
+  # - {
+  #     name: Secondary School Certificate,
+  #     date: "1998",
+  #     organization: "Cardiff School",
+  #   }
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Hackathons & Clubs 
 services:
   - {
-      name: UI Design,
+      name: Programming Club,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Fall 2023 - Participated in weekly mettings of the programming club at John Abbott",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: Girls Who Code,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "March 2024 - Participated in the Girls Who Code hackathon of McGill University. Designed a quiz app in a team of 3.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: NSEC,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "May 2024 - Participated in the 2024 NSEC with the John Abbott team.",
       active: ,# Add true to select section
     }
 
@@ -246,21 +246,21 @@ portfolio-items:
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+# testimonial-items:
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Client Slider Section
@@ -300,4 +300,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: ls.molina@hotmail.com
