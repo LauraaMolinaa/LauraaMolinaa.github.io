@@ -13,7 +13,6 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
@@ -88,10 +87,10 @@ work-process:
 
 skills-title: Skills
 skills:
-  - { name: Web Programming, color: "#fdb157", value: "90%" }
+  - { name: Web Programming, color: "#fdb157", value: "85%" }
   - { name: Databases, color: "#9473e6", value: "80%" }
   - { name: App Developement, color: "#bdecf6", value: "75%" }
-  - { name: Networking and Security, color: "#ffbcaa", value: "50%" }
+  - { name: Networking and Security, color: "#ffbcaa", value: "65%" }
 
 #-------------------------------
 # Exprerience Section
@@ -265,36 +264,36 @@ portfolio-items:
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+# client-slider-items:
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
 
 #-------------------------------
 # Contact Section

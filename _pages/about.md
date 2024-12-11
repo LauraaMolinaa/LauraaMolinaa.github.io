@@ -1,18 +1,12 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Laura Molina
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+I am a third-year computer science student at John Abbott College, passionate about technology and problem-solving. Over the course of my studies, I have developed strong skills in programming languages such as C#, JavaScript, TypeScript, Python, HTML/CSS, SQL, and Bash. I am proud to have been awarded two FORTES scholarships, which support and recognize women making strides in the technology industry.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+Teamwork has been a key part of my learning journey. Participating in various team projects has allowed me to build strong collaboration skills, share ideas openly, and work towards common goals. These experiences have shaped me into a reliable team player who values clear communication, active listening, and finding effective solutions to challenges.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I am known for my hardworking attitude, positive mindset, and willingness to take on challenges. With excellent communication skills and a friendly demeanor, I aim to create a productive and welcoming environment wherever I work. I am excited to continue learning and growing as I contribute to the tech industry.
