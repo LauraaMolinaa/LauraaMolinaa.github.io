@@ -169,19 +169,16 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/citrus.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/moodify.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/geo-game.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/home-calendar.png"
     url: "#"
 
 # Portfolio Page
