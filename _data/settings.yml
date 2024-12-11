@@ -8,13 +8,13 @@ author: themefisher
 description: Laura Molina's Portfolio
 email: ls.molina@hotmail.com
 phone: 514-924-9862
-address: Vaudreuil-Dorion, QC.
+address: Montreal, QC.
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
   - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  # - { name: Contact, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
