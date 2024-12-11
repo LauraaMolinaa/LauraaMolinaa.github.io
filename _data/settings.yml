@@ -38,10 +38,8 @@ hero:
   hero-title:  <br> Laura Molina <br> Comp Sci Student
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/laura-molina-3a85bb301" }
+  - { icon: "ti-email", link: "mailto:ls.molina@hotmail.com" }
 
 #-------------------------------
 # About (Section and Page)
