@@ -55,18 +55,18 @@ blurb-btn-name: know more
 # About Page
 
 # Work Process Section
-work-process:
-  - title: "Research and Plan"
-    icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+# work-process:
+#   - title: "Research and Plan"
+#     icon: "assets/images/icons/plan.png"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title: "Design and Develop"
-    icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#   - title: "Design and Develop"
+#     icon: "assets/images/icons/design.png"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#   - title: "Deliver"
+#     icon: "assets/images/icons/print.png"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
 # team:
@@ -95,26 +95,26 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
-experience:
-  - {
-      name: Cashier,
-      icon: "icon-1.png",
-      date: "Summer 2020 & Summer 2021",
-      organization: "Le Zebre Rouge",
-    }
-  - {
-      name: Hostess & Server,
-      icon: "icon-2.png",
-      date: "May 2022 - May 2023",
-      organization: "Boston Pizza Vaudreuil",
-    }
-  - {
-      name: Food Service Worker,
-      icon: "icon-3.png",
-      date: "Jan 2024 - Sep 2024",
-      organization: "Marche Italanni",
-    }
+# experience-title: Experience
+# experience:
+#   - {
+#       name: Cashier,
+#       icon: "icon-1.png",
+#       date: "Summer 2020 & Summer 2021",
+#       organization: "Le Zebre Rouge",
+#     }
+#   - {
+#       name: Hostess & Server,
+#       icon: "icon-2.png",
+#       date: "May 2022 - May 2023",
+#       organization: "Boston Pizza Vaudreuil",
+#     }
+#   - {
+#       name: Food Service Worker,
+#       icon: "icon-3.png",
+#       date: "Jan 2024 - Sep 2024",
+#       organization: "Marche Italanni",
+#     }
 
 #-------------------------------
 # Education Section
@@ -145,26 +145,26 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Hackathons & Clubs 
-services:
-  - {
-      name: Programming Club,
-      icon: ti-palette,
-      description: "Fall 2023 - Participated in weekly mettings of the programming club at John Abbott",
-      active: ,# Add true to select section
-    }
-  - {
-      name: Girls Who Code,
-      icon: ti-vector,
-      description: "March 2024 - Participated in the Girls Who Code hackathon of McGill University. Designed a quiz app in a team of 3.",
-      active: true, # Add true to select section
-    }
-  - {
-      name: NSEC,
-      icon: ti-panel,
-      description: "May 2024 - Participated in the 2024 NSEC with the John Abbott team.",
-      active: ,# Add true to select section
-    }
+# services-title: Hackathons & Clubs 
+# services:
+#   - {
+#       name: Programming Club,
+#       icon: ti-palette,
+#       description: "Fall 2023 - Participated in weekly mettings of the programming club at John Abbott",
+#       active: ,# Add true to select section
+#     }
+#   - {
+#       name: Girls Who Code,
+#       icon: ti-vector,
+#       description: "March 2024 - Participated in the Girls Who Code hackathon of McGill University. Designed a quiz app in a team of 3.",
+#       active: true, # Add true to select section
+#     }
+#   - {
+#       name: NSEC,
+#       icon: ti-panel,
+#       description: "May 2024 - Participated in the 2024 NSEC with the John Abbott team.",
+#       active: ,# Add true to select section
+#     }
 
 #-------------------------------
 # Portfolio (Section and Page)
