@@ -144,25 +144,25 @@ education:
 # Services Section
 
 # services-title: Hackathons & Clubs 
-# services:
-#   - {
-#       name: Programming Club,
-#       icon: ti-palette,
-#       description: "Fall 2023 - Participated in weekly mettings of the programming club at John Abbott",
-#       active: ,# Add true to select section
-#     }
-#   - {
-#       name: Girls Who Code,
-#       icon: ti-vector,
-#       description: "March 2024 - Participated in the Girls Who Code hackathon of McGill University. Designed a quiz app in a team of 3.",
-#       active: true, # Add true to select section
-#     }
-#   - {
-#       name: NSEC,
-#       icon: ti-panel,
-#       description: "May 2024 - Participated in the 2024 NSEC with the John Abbott team.",
-#       active: ,# Add true to select section
-#     }
+services:
+  - {
+      name: Programming Club,
+      icon: ti-palette,
+      description: "Fall 2023 - Participated in weekly mettings of the programming club at John Abbott",
+      active: ,# Add true to select section
+    }
+  - {
+      name: Girls Who Code,
+      icon: ti-vector,
+      description: "March 2024 - Participated in the Girls Who Code hackathon of McGill University. Designed a quiz app in a team of 3.",
+      active: true, # Add true to select section
+    }
+  - {
+      name: NSEC,
+      icon: ti-panel,
+      description: "May 2024 - Participated in the 2024 NSEC with the John Abbott team.",
+      active: ,# Add true to select section
+    }
 
 #-------------------------------
 # Portfolio (Section and Page)
@@ -171,15 +171,19 @@ education:
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "https://github.com/LauraaMolinaa/security-project"
+    description: "AES Symmetric Key Encryption"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "https://github.com/PIII-Assignments-F23/piii-course-project-pattie-laura"
+    description: "Fun Geography Quiz App!"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "https://github.com/LauraaMolinaa/TheDeveloppers-HomeCalendar"
+    description: "Calendar App"
 
   - image: "assets/images/portfolio/item-4.png"
     url: "https://github.com/LauraaMolinaa/Moodify"
+    description: "Health and Wellness App."
 
 # Portfolio Page
 portfolio-label:
@@ -190,15 +194,19 @@ portfolio-label:
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "https://github.com/LauraaMolinaa/security-project"
+    description: "AES Symmetric Key Encryption"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "https://github.com/PIII-Assignments-F23/piii-course-project-pattie-laura"
+    description: "Fun Geography Quiz App!"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "https://github.com/LauraaMolinaa/TheDeveloppers-HomeCalendar"
+    description: "Calendar App"
 
   - image: "assets/images/portfolio/item-4.png"
     url: "https://github.com/LauraaMolinaa/Moodify"
+    description: "Health and Wellness App."
 
 #-------------------------------
 # Testimonials Section
