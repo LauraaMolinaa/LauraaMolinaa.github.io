@@ -183,7 +183,7 @@ portfolio-home-items:
 
   - image: "assets/images/portfolio/item-4.png"
     url: "https://github.com/LauraaMolinaa/Moodify"
-    description: "Health and Wellness App."
+    description: "Health and Wellness App"
 
 # Portfolio Page
 portfolio-label:
