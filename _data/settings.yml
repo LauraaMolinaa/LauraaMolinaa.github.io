@@ -169,17 +169,17 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/citrus.png"
-    url: "#"
+  - image: "assets/images/portfolio/item-1.png"
+    url: "https://github.com/LauraaMolinaa/security-project"
 
-  - image: "assets/images/portfolio/moodify.png"
-    url: "#"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "https://github.com/PIII-Assignments-F23/piii-course-project-pattie-laura"
 
-  - image: "assets/images/portfolio/geo-game.png"
-    url: "#"
+  - image: "assets/images/portfolio/item-3.png"
+    url: "https://github.com/LauraaMolinaa/TheDeveloppers-HomeCalendar"
 
-  - image: "assets/images/portfolio/home-calendar.png"
-    url: "#"
+  - image: "assets/images/portfolio/item-4.png"
+    url: "https://github.com/LauraaMolinaa/Moodify"
 
 # Portfolio Page
 portfolio-label:
