@@ -189,53 +189,16 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
+    url: "https://github.com/LauraaMolinaa/security-project"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+    url: "https://github.com/PIII-Assignments-F23/piii-course-project-pattie-laura"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+    url: "https://github.com/LauraaMolinaa/TheDeveloppers-HomeCalendar"
 
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+  - image: "assets/images/portfolio/item-4.png"
+    url: "https://github.com/LauraaMolinaa/Moodify"
 
 #-------------------------------
 # Testimonials Section
