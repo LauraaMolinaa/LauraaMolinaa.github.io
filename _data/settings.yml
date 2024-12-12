@@ -143,7 +143,7 @@ education:
 #-------------------------------
 # Services Section
 
-# services-title: Hackathons & Clubs 
+services-title: Hackathons & Clubs 
 services:
   - {
       name: Programming Club,
@@ -206,7 +206,7 @@ portfolio-items:
 
   - image: "assets/images/portfolio/item-4.png"
     url: "https://github.com/LauraaMolinaa/Moodify"
-    description: "Health and Wellness App."
+    description: "Health and Wellness App"
 
 #-------------------------------
 # Testimonials Section
